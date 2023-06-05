@@ -42,3 +42,6 @@ pip install tensorflow
 #Verify
 python3 -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
 ```
+## Access to Project
+You can access the Jpegs by visiting https://drive.google.com/file/d/1Ox3W_AJdBjg5Sc6tOn9KikR2BB8zndxh/view?usp=drive_link. 
+To run the ipynb, download and unzip the image file and then change the file directory in the notebook to the location of the unzipped images.
